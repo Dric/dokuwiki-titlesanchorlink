@@ -22,7 +22,7 @@ Issues
 
 Have a bug or a request ? Please create an issue on GitHub !
 
-<https://github.com/Dric/Doku-Titles-Anchors/issues>
+<https://github.com/Dric/dokuwiki-titlesanchorlink/issues>
 
 ----
 Copyright (C) Dric
